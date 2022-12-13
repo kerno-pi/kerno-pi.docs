@@ -981,7 +981,7 @@ post with one or multiple [authors]. First, create the
 
 ``` yaml
 squidfunk:
-  name: Martin Donath
+  name: Kerno Pi
   description: Creator
   avatar: https://github.com/squidfunk.png
 ```

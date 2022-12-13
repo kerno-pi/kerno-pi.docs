@@ -104,7 +104,7 @@ A custom copyright banner can be rendered as part of the footer, which is
 displayed next to the social links. It can be defined as part of `mkdocs.yml`:
 
 ``` yaml
-copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: Copyright &copy; 2016 - 2020 Kerno Pi
 ```
 
   [Copyright notice support]: https://github.com/squidfunk/mkdocs-material/releases/tag/0.1.0
